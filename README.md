@@ -11,5 +11,5 @@ FPanalysis_overall: To plot the DA signals with behaviors from individual animal
 PSTH_all_raw: To plot the average PSTH from all the animals
 timeShiftCorrlation: To calculate the correlation coefficients betweem 2 curves and calculate the average correlation curve from all animals
 
-Please contact either Bing Dai (Bing.Dai@nyulangone.org) or Dayu Lin (Dayu.Lin@nyulangone.org)
+Please contact either Bing Dai (Bing.Dai@nyulangone.org or bd1409@nyu.edu) or Dayu Lin (Dayu.Lin@nyulangone.org)
 
